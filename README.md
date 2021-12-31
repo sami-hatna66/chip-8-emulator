@@ -7,6 +7,6 @@ This Python emulator can run any Chip-8 ROM.
 
 ## Keyboard Map
 
-![Chip8KeyDiagram](https://user-images.githubusercontent.com/88731772/147835218-c245320a-605d-4b4e-87c4-0678ae6c393c.png =470x247)
+<img src="https://user-images.githubusercontent.com/88731772/147835218-c245320a-605d-4b4e-87c4-0678ae6c393c.png" width="470" height="247">
 
 ## Resources Used
