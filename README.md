@@ -3,9 +3,7 @@ Chip-8 is an interpreted assembly programming language developed in the mid 1970
 
 ## Demo
 
-
-https://user-images.githubusercontent.com/88731772/147835313-f19fd7ac-82ee-4dbe-91a7-b171fd21a394.mp4
-
+https://user-images.githubusercontent.com/88731772/147849324-a9cd9692-a8a8-45a0-9f7f-c45deebe942a.mp4
 
 ## Keyboard Map
 
