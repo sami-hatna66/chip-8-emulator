@@ -1,5 +1,5 @@
 # Python Chip-8 Emulator
-Chip-8 is an interpreted assembly programming language developed in the mid 1970s. It runs on a virtual machine and was initially used on the Telemac 1800 and Cosmac VIP computers. This Python emulator can run any Chip-8 ROM.
+Chip-8 is an interpreted assembly programming language developed in the mid 1970s. It runs on a virtual machine and was initially used on the Telemac 1800 and Cosmac VIP computers. This Python emulator can run any Chip-8 ROM. 
 
 ## Demo
 
